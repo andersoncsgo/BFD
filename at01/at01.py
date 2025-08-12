@@ -1,0 +1,12 @@
+#print(type("22"))
+#print(type(22.3))
+#print(type(0.))
+#print(type(True))
+#print(type(False))
+#print(type(str(22)))
+#int()
+#float()
+#print(bool("sim"))
+
+nome_aluno_tarde = input("informe seu nome: ")
+print(type(int(nome_aluno_tarde)))
